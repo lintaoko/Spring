@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+    <bean id="domain" class="com.f00w.Domain">
+        <property name="name" value="Tawn"/>
+    </bean>
+</beans>
